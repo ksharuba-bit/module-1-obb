@@ -1,0 +1,3 @@
+base::func() -> i = 10
+derived1::func() -> i^2 = 100
+base::func() -> i = 10
